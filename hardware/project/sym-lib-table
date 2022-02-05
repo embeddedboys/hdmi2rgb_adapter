@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "pwr_BeagleBone")(type "Legacy")(uri "${KIPRJMOD}/pwr_BeagleBone.lib")(options "")(descr ""))
+  (lib (name "project-rescue")(type "Legacy")(uri "${KIPRJMOD}/project-rescue.lib")(options "")(descr ""))
+  (lib (name "hdmi2rgb")(type "KiCad")(uri "${KIPRJMOD}/hdmi2rgb.kicad_sym")(options "")(descr ""))
+  (lib (name "2021-12-19_04-36-34")(type "KiCad")(uri "G:/repos/tida-01473/hardware/kicad_library/ul_STM32F103C6T6A/2021-12-19_04-36-34.kicad_sym")(options "")(descr ""))
+  (lib (name "CQ-USB-C16PSMT01")(type "Legacy")(uri "G:/repos/tida-01473/hardware/kicad_library/CQ-USB-C16PSMT01/CQ-USB-C16PSMT01.lib")(options "")(descr ""))
+)

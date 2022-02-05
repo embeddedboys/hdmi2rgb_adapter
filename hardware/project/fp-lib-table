@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name "Socket_BeagleBone_Black")(type "KiCad")(uri "$(KIPRJMOD)/Socket_BeagleBone_Black.pretty")(options "")(descr ""))
+  (lib (name "54132-4062")(type "KiCad")(uri "G:/repos/tida-01473/hardware/kicad_library/54132-4062")(options "")(descr ""))
+  (lib (name "1827059-3")(type "KiCad")(uri "G:/repos/tida-01473/hardware/kicad_library/1827059-3")(options "")(descr ""))
+  (lib (name "CQ-USB-C16PSMT01")(type "KiCad")(uri "G:/repos/tida-01473/hardware/kicad_library/CQ-USB-C16PSMT01")(options "")(descr ""))
+  (lib (name "TFP401PZP")(type "KiCad")(uri "G:/repos/tida-01473/hardware/kicad_library/TFP401PZP")(options "")(descr ""))
+  (lib (name "USB4125-GF-A_REVA2")(type "KiCad")(uri "G:/repos/tida-01473/hardware/kicad_library/USB4125-GF-A_REVA2")(options "")(descr ""))
+  (lib (name "ul_STM32F103C6T6A")(type "KiCad")(uri "G:/repos/tida-01473/hardware/kicad_library/ul_STM32F103C6T6A")(options "")(descr ""))
+)
